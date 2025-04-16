@@ -1,5 +1,5 @@
 Challenge 1:
-# Target-Account-Matching-API Challenge 1
+# Target-Account-Matching-API 
 Problem Statement Build a RESTful API service that allows a frontend client to:  
 1. Log in with a username and password
 2. Fetch a list of companies with match scores
